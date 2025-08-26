@@ -10,6 +10,7 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
+source_suffix = ['.rst', '.md']
 
 extensions = [
     'sphinx.ext.duration',
@@ -17,6 +18,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser'
 ]
 
 intersphinx_mapping = {
