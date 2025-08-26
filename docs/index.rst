@@ -24,5 +24,4 @@ Hitobito Benutzeranleitung für den Eidgenössichen Jodlerverband
    :caption: Anhänge
    
    qa
-   anhang-1
-   anhang-2
+   anhang
