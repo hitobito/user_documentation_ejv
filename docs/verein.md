@@ -59,10 +59,7 @@ auszufüllen.
 
 #### Liste importieren
 
-```{tip}
-Damit der Import klappt, muss zwingend die Korrespondenzsprache jedes Benutzers
-definiert werden. Diese ist entweder `de`, `fr` oder `it` (Gross-/Kleinschreibung beachten).
-```
+Diese Funktion wird für den Import vieler Personen aus einem anderen System benötigt.
 
 #### Mitglieder bearbeiten
 
@@ -121,128 +118,6 @@ erstellten Tags)
 Hinzufügen neuer strukturierter Tags (Trennung der beiden Begriffe durch
 einen Doppelpunkt)
 
-#### Funktionäre (Präsident, Dirigent etc.) erfassen
-
-Es ist wichtig, dass die Vereinsfunktionäre als solche im System erfasst
-bzw. gekennzeichnet sind. So stellen Sie sicher, dass Ihre Funktionäre
-die entsprechenden Nachrichten Ihres Kantonalverbandes und des Schweizer
-Blasmusikverbandes auch erhalten. Um unnötige E-Mail und Briefe zu
-vermeiden, versuchen der SBV und seine Kantonalverbände ihre
-Informationen zielgerichtet zu verschicken: Einladungen für
-Dirigentenkonferenzen gehen nur an die Dirigenten; Informationen im
-Zusammenhang z.B. mit COVID-19 wie Hinweise zu
-Kurzarbeitsentschädigungen betreffend die PräsidenInnen der Verein etc.
-
-(Dirigent_erfassen)=
-##### Dirigent erfassen
-
-Bei der Erfassung der Dirigent:innen ist zu unterscheiden, ob
-diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
-
-```{important}
-Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA und
-kantonale Musikverbände) zu entrichten und zählen die Aktivjahre der
-Mitglieder für die Berechnung der Veteranenehrungen. Bei
-Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch die
-Aktivjahre.
-```
-
-Dirigent:innen ist **in jedem Fall** die Rolle `[Musikgesellschaft XY] →
-DirigentIn` zuzuordnen:
-
-![image](media/image25.png)
-
-Ist ein(e) Dirigent:in auch Mitglied im entsprechenden Verein, ist
-ihm/ihr **zusätzlich** die Rolle `Mitglieder → Mitglied` zuzuweisen:
-
-![image](media/image26.png)
-
-##### Präsident erfassen
-
-Neben der Rolle `Mitglieder → Mitglied` (falls der Präsident auch selber
-Aktivmitglied ist), ist ihm ihm auch die Rolle `Vorstand → Präsident`
-zuzuordnen.
-
-```{tip}
-Das Vorgehen ist für das Erfassen von Vizepräsident, Kassier,
-Veteranenchef, Präsident der Musikkommission etc. ist analog zum
-Vereinspräsidenten.
-```
-
-(Veteranen_verwalten)=
-#### Veteranen verwalten
-
-##### Überprüfen der Einträge gemäss Musikerpass
-
-Damit die Berechnung der
-Aktivjahre eines Musikanten korrekt erfolgen kann, müssen dessen
-aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen in
-hitobito erfasst sein. Um dies zu überprüfen, rufen Sie das
-entsprechende Mitglied auf, indem Sie dessen Namen im grossen Suchfeld
-zuoberst auf der Seite eingeben. Nach der Eingabe von drei Zeichen
-erfolgt bereits eine Suche, so dass nicht der ganze Name eingegeben
-werden muss.
-
-Auf der Personen-Übersicht sehen Sie alle zur Person gehörenden Daten,
-unter anderem im Abschnitt «Weitere Angaben» auch die Anzahl «Aktivjahre
-aktuell» (im nachfolgenden Beispiel: 21 Jahre):
-
-![image](media/image27.png)
-
-Die aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen
-können unter der Ansicht «Verlauf» angezeigt werden. Dort interessieren
-uns die Einträge mit der Rolle «Mitglied» in einer Gruppe «\[Musikverein
-XY\] / Mitglieder».
-
-Sind noch nicht alle Mitgliedschaften der Person erfasst, können
-fehlende Mitgliedschaften über den Befehl «Neue Rolle» (nach-)erfasst
-werden. Dazu ist die Rolle `[Musikgesellschaft XY] → Administrator` oder
-`Mitglieder → Adressverwaltung` notwendig:
-
-![image](media/image28.png)
-
-Es können auch (heute) nicht mehr existierende, d.h. inzwischen aufgelöste, Vereine erfasst werden.
-
-```{tip}
-Soll eine Rolle eines fremden Vereins erfasst werden, muss der Eintrag zwingend in der Ansicht «Verlauf» gemacht werden. Der Button `Rolle hinzufügen` in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein fremder Verein ausgewählt werden kann.
-```
-
-```{tip}
-Für die Berechnung der **Aktivjahre** zählt nur die Rolle `Mitglieder →
-Mitglied`. Die Rollen `Mitglieder → Ehrenmitglied`, `Mitglieder →
-Adressverwaltung` und `Mitglieder → Passivmitglied` generieren keine
-Aktivjahre und sind entsprechend auch nicht finanzrelevant, d.h. für
-Personen mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge
-entrichtet werden. Wird ein aktives Mitglied zum (aktiven) Ehrenmitglied ernannt,
-ist diese Rolle deshalb **zusätzlich** zu vergeben (und nicht die Rolle
-`Mitglieder → Mitglied` durch die Rolle `Mitglieder → Ehrenmitglied`
-abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für
-dieses die Mitgliederbeiträge in Rechnung gestellt werden.
-```
-
-Sind nun alle Engagements des Mitglieds vollständig erfasst, können
-dessen Aktivjahre, welche für die Berechnung der kantonalen und
-eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht
-abgelesen werden. Diese Angabe erscheint übrigens auch auf den
-Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
-
-##### Veteranenliste erstellen
-
-Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen
-ernannt werden können (25 Aktivjahre), kann seine Mitgliederliste
-entsprechend gefiltert werden. Dazu muss der Verein aufgerufen und das
-Menü «Personen» geöffnet werden. Unter «Weitere Ansichten» kann ein
-neuer Filter erstellt werden: Aktivjahre aktuell ist genau 25
-
-
-![image](media/image29.png)
-
-![image](media/image30.png)
-
-Die mittels eines solchen Filters erstellte Liste kann nun entweder
-ausgedruckt (PDF) oder heruntergeladen und elektronisch
-weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,...).
-
 ### Menü Anlässe
 
 #### Anlass erstellen
@@ -255,7 +130,7 @@ erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 ```{tip}
 **Hinweis für das Erstellen von Anlässen**
 
-Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
+Vorgegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 ```
 
 ![image](media/image32.jpg)
@@ -454,9 +329,7 @@ zusätzlichen Absender angegeben (und ist die Option "Beliebige
 Absender/-innen dürfen auf die Mailingliste schreiben" nicht aktiviert),
 können nur Administratoren Nachrichten an die Liste schicken. Sollen
 weitere Personen Nachrichten an die Liste schicken dürfen, können diese
-im Feld "zusätzliche Absender" definiet werden. Neben expliziten
-E-Mailadressen (z.B. <info@windband.ch>) können auch ganze Domains (z.B.
-\*@windband.ch) angegeben werden.
+im Feld "zusätzliche Absender" definiet werden.
 
 ![image](media/Liste_erstellen_2.png)
 
@@ -523,23 +396,6 @@ dritte Mahnung definiert werden.
 
 Diese Einstellungen sind Verbands- bzw. Vereinsspezifisch und können für
 jede Gruppe individuell vorgenommen werden.
-
-Für die direkte Einbindung und Kontrolle der Zahlungen in hitobito
-stehen Stand Januar 2022 Schnittstellen zu folgenden Finanzinstituten
-zur Verfügung:
-
-  - Postfinance
-  - Credit Suisse
-  - Raiffeisen Schweiz
-  - UBS
-  - Luzerner Kantonalbank
-  - St. Galler Kantonalbank
-  - Thurgauer Kantonalbank
-  - Zürcher Kantonalbank
-  - Valiant
-  - BancoStato
-  - BEKB | BCBE
-  - Zuger Kantonalbank
 
 ![image](media/image49.png)
 
@@ -609,5 +465,5 @@ eingetretten ist.
 
 Fussnoten:
 
-[^1]: Technisch: Es dürfen die Personen Tags erfassen und anschauen, welche Schreibrechte auf der Person haben. Die Rollen gemäss <https://github.com/hitobito/hitobito_sbv/> mit \*\_full
+[^1]: Technisch: Es dürfen die Personen Tags erfassen und anschauen, welche Schreibrechte auf der Person haben. 
 [^2]: Eine camt.054 XML-Datei ist die Sammelbuchungs-auflösung und Belastungs- und Gutschriftsanzeige. Diese enthält eine Reihe verschiedene Buchungspositionen welche automatisiert auf Basis der ESR-Nummer bestehenden Rechnungen zugeordnet werden.
