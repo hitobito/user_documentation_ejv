@@ -1,29 +1,29 @@
 # Startseite Benutzer
 
+Jeder Benutzer kann sich mit seiner Emailadresse und Passwort bei Hitobito einloggen.
+Nach dem Login landet man immer zuerst auf seinen persöhnlichen Daten
+
 ## Übersicht
 
 ![Abbildung Startseite Benutzer → Info](media/image5.png)
 
   - Module  
-    In der Modulauswahl können Sie das gewünschte Modul wählen: Gruppen
-    | Anlässe | Kurse | Rechnungen | Hilfe | Einstellungen.
+    Auf der linken Seite kann zwischen den verschiedenen Module von Hitobito navigiert werden.
+    Welche Module für einen Benutzenden ersichtlich sind, hängt von seinen Berechtigungen ab.
+    Es gibt die folgenden Module:  Gruppen | Anlässe | Kurse | Rechnungen | Hilfe | Einstellungen.
 
   - Menü  
     Im Modul Gruppen hat jede Gruppe verschiedene Menüpunkte, welche je
     nach Berechtigung angezeigt werden (z.B. Info, Personen, Anlässe,
     Listen, Gelöscht etc.)
 
-  - Personen haben zudem folgende Ansichten:  
-    Info | Abos | Verlauf | Log.
-
-  - Befehle  
-    Abhängig von den Ihnen zugewiesenen Gruppen und Rollen, stehen Ihnen
-    in den verschiedenen Modulen und Ansichten unterschiedliche Befehle
-    zur Verfügung.
+  - Auf jeder Person gibt es verschiedene Ansichten. Welche Ansichten eine Person sehen kann hängt von ihren Berechtigungen in Hitobito ab.
+    Nachfolgend werden folgende Ansichten erklärt: Info | Abos | Rechnungen | Verlauf | Log.
 
   - Suchen  
-    Im Suchfeld kann nach Personen, Vereinen, Verbänden, Anlässen,
-    Kursen etc. gesucht werden.
+    Im Suchfeld kann nach Personen, Gruppen und Anlässen gesucht werden.
+    Welche Resultate eine Person sehen kann hängt von ihren Berechtigungen ab. 
+    So können nur Personen oder Anlässe gefunden werden für die man auch die Berechtigung hat, sie zu sehen.
 
   - Sprachauswahl  
     Es kann zwischen den Sprachen Deutsch | Französisch | Italienisch
@@ -67,42 +67,20 @@ Verfügung:
   - Bearbeiten  
     Ändern der Angaben zur Person
 
-  - Löschen  
-    Löschen der Person
-
   - Rechnung erstellen  
-    Erstellen einer Rechnung für diese Person
+    Erstellen einer Einzelrechnung für diese Person
 
   - Export  
     Herunterladen der angezeigten Daten in verschiedenen Formaten (CSV,
     PDF, Excel etc.).
 
-  - Login schicken  
-    Dieser Befehl schickt dem Benutzer ein E-Mail mit dem Link zum
-    setzen eines Passwortes. Fährt man mit der Maus über diesen Button
-    erscheint die Information, ob der Benutzer bereits ein Login hat,
-    oder nicht.
-
-![image](media/image7.png)
-
-![image](media/image8.png)
-
-  - Imitieren  
-    Übernehmen der Berechtigungen einer Person, d.h. Ansicht von
-    hitobito aus der Perspektive dieser Person.
-
-  - Passwort ändern  
-    Ändern Sie ihr Passwort zum Anmelden bei hitobito. Sie können nur
-    ihr eigenes Passwort ändern.
+  - Login
+    Über diesen Befehl kann jede Person ihr eigenes Passwort ändern, oder eine Zwei-Faktor-Authentifizierung einrichten.
+    Administratoren können ausserdem anderen Personen ein neues Loginmail zusenden.
 
 Auf der rechten Seite findet sich eine Übersicht aller aktuellen Rollen
 der Person, der ihr zugeordneten Tags, ihrer Anmeldungen für kommende
 Anlässe und Kurse sowie ihrer erworbenen Qualifikationen.
-
-Über die Funktion ![iconKalender](media/image9.png) `in Kalender
-integrieren` kann jeder Benutzer eine URL generieren, welche er in
-seiner Kalender.app abonnieren kann. Diese Funktion steht zur Zeit nur
-bei den Anlässen zur Verfügung.
 
 ## Ansicht Abos
 
@@ -110,8 +88,7 @@ Auflistung, in welcher Mailingliste der Benutzer eingetragen ist.
 
 ## Ansicht Verlauf
 
-In der Ansicht "Verlauf" finden Sie eine Übersicht aller `Gruppen →
-Rollen`, welche die Person aktuell und in der Vergangenheit hatte. Bei
+In der Ansicht "Verlauf" finden Sie eine Übersicht aller Gruppen und Rollen , welche die Person aktuell und in der Vergangenheit hatte. Bei
 vergangenen Rollen ist ein Von- und Bis-Datum vermerkt; bei aktuellen
 Rollen nur ein Von-Datum.
 
@@ -123,18 +100,13 @@ hinzufügen\]](media/image10.png)
 
 ## Ansicht Log
 
-In der Ansicht "Log" können Sie nachverfolgen wer wann welche
-Informationen über Sie geändert hat.
+Das Log bietet eine detaillierte Ansicht, wer wann welche Anpassungen an dieser Person vorgenommen hat.
 
 ## Ansicht Rechnungen
 
 In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der
-Person geschickt wurden.
+Person zugeordnet sind. Anhand der Rechnungsstati ist ersichtlich, ob Rechnungen Zugestellt, Bezahlt oder gemahnt wurden.
 
-<div class="attention">
-Es ist noch unklar, wer die Ansicht "Rechnungen" sehen kann → abklären
-mit hitobito
-</div>
 
 # Modul Gruppen
 
@@ -144,12 +116,6 @@ Unter dem Menüpunkt "Info" kann für jede Gruppe eine Kontaktperson
 ausgewählt oder eine "Vereinsadresse" definiert werden. Je nach
 Gruppentyp stehen zudem weitere Angaben (Beschreibung,
 Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
-
-<div class="attention">
-Die im Menü "Info" definierte Adresse (explizit angegebene
-Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als
-Absender bei E-Mails verwendet.
-</div>
 
 ![Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt
 Info](media/image11.png)
@@ -165,9 +131,6 @@ sichtbar.
 Übersicht angezeigt werden sollen. Mit den Befehlen `Export` bzw.
 `Drucken` können die angezeigten Daten heruntergeladen bzw. ausgedruckt
 werden.
-
-**Beispiel**: Ist ein eigener Verein ausgewählt, werden die besonderen
-Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
 
 ![Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt
 Info](media/image12.png)
@@ -191,50 +154,21 @@ gleichzeitig](media/image13.png)
 
 ## Menü Anlässe
 
-Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten
-(wenn die Gruppe "Verein" ausgewählt ist) bzw. die von der jeweiligen
-selektierten Untergruppe erstellten Anlässe aufgelistet. Hier können
-sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren
-oder direkt in den Kalender eintragen (mit Hilfe einer iCalendar-Datei).
+Unter dem Menüpunkt Anlässe werden die vom angezeigten Verein erstellten Anlässe aufgelistet. Hier können
+sich die Mitglieder für die Anlässe anmelden, die Anlässe exportieren.
 
 Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des
-Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle
-Anlässe des SBV angezeigt werden.
+Verbandsgebiets und auf der Ebene Eidgenössischer Jodlerverband alle
+Anlässe des EJV angezeigt werden.
 
-## Menü Musikfeste
+## Menü Abos
 
-Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können
-sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
-
-## Menü Listen
-
-Im Menüpunkt "Listen" werden dem Mitglied sämtliche Mailinglisten der
+Im Menüpunkt "Abos" werden dem Mitglied sämtliche Mailinglisten der
 selektierten Gruppe, d.h. des Vereins oder einer seiner Gruppen,
 angezeigt. Je nach Konfiguration durch den Administrator können diese
 "Weiterleitungsadressen" auch von den Mitgliedern benutzt werden.
 
 ![image](media/image14.png)
-
-## Menü Anfragen
-
-Dieser Menüpunkt ist nur für Administratoren ersichtlich.
-
-## Menü Notizen
-
-Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder
-zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen.
-Dieser Menüpunkt ist nur für Administratoren ersichtlich.
-
-## Menü Gelöscht
-
-Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte
-Untergruppen des Vereins angezeigt.
-
-## Menü API-Keys
-
-Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die
-technische Anbindung an Webseiten oder Apps können hier sog. API-Keys
-generiert werden.
 
 # Modul Anlässe
 
@@ -243,16 +177,16 @@ sowie deren Übergruppen angezeigt.
 
 Beispiele:
 
-  - Anlässe des SBV werden bei allen Mitgliedern angezeigt
-  - Anlässe des Aargauischen Musikverbandes (AMV) werden nur Mitgliedern
-    angezeigt, die dem AMV angehören
-  - Anlässe der Musikgesellschaft Eintracht Windisch (MGE) werden nur
-    Mitgliedern der MGE angezeigten
+  - Anlässe des EJV werden bei allen Mitgliedern angezeigt
+  - Anlässe des Bernisch Kantonalen Jodlerverbands (BKJV) werden nur Mitgliedern
+    angezeigt, die dem BKJV angehören
+  - Anlässe der einzelnen Jodlervereine werden nur
+    Mitgliedern des jeweiligen Vereins angezeigten
 
 Andere Anlässe sind bei der organisierenden Gruppe zu finden. Will sich
-ein Mitglied des Zürcher Blasmusikverbands über Anlässe im Aargau
+ein Mitglied des BKJVs über Anlässe der Zentralschweiz
 informieren, kann sich das Mitglied die entsprechenden Anlässe im Modul
-Gruppen → Schweizer Blasmusikverband SBV → Aargauischer Musikverband →
+Gruppen → Eidgenössischer Jodlerverband → Zentralschweizerischer Jodlerverband →
 Menü Anlässe anzeigen lassen.
 
 # Modul Kurse
@@ -279,23 +213,6 @@ weitergeben, die alle Termindetails sehen dürfen. Bei einem Missbrauch
 kann die URL hier auch zurückgesetzt werden. Alle Kalender die noch die
 alte Adresse kennen, können die Anlässe danach nicht mehr anzeigen.
 
-1.  Adresse erstellen
-2.  Link kopieren
-
-![image](media/image15.png)
-
-3.  Outlook öffnen und in den Kalender wechseln
-
-Über Start das Menü **Kalender öffnen** (2) wählen und mit **Aus dem
-Internet** (3) ein zusätzliches Fenster öffnen. Hier im leeren Kasten
-die aus hitobito kopierte URL einfügen (4) und mit OK (5) bestätigen.
-Über Erweitert (6) kann ein Ordnername und eine Beschreibung (7)
-eingegeben werden. Zum Abschliessen mit OK (8) und Ja (9) bestätigen.
-
-![image](media/image16.png)
-
-Mit dem Abschliessen wird in Outlook unter Andere Kalender der neue
-Kalender mit den eigenen Anlässen aus HITOBITO angezeigt und immer
-wieder aktualisiert:
+Je nach Berechtigung kann das Modul EInstellungen noch weitere Punkte beinhalten
 
 ![image](media/image17.png)
