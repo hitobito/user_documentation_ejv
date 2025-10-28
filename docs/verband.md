@@ -10,7 +10,7 @@ besitzen.
 
 ### Mitglieder löschen
 
-Administratoren der Kantonalverbände und des SBV können Personen
+Administratoren der Kantonalverbände und des EJV können Personen
 löschen. Den entsprechenden Button findet sich bei der entsprechenden
 Person in der Ansicht "Info":
 
@@ -22,12 +22,6 @@ Kurse können nur von Verbänden (nicht von Vereinen) erstellt werden,
 wobei eine Rolle mit Schreibberechtigung auf der Verbandsstufe nötig ist
 (z.B. Administrator)
 
-<div class="tip">
-Hinweise für das Erstellen von Kursen ![iconSchloss](media/image2.png):
-Die Prioritäts-Option ist nur verfügbar, wenn für mehrere Kurse die
-gleiche "Kursart" gewählt wurde und bei allen Kursen die Option
-"Priorisierung" gesetzt wurde.
-</div>
 
 ## Modul Rechnungen
 
