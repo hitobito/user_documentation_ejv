@@ -76,7 +76,6 @@ Ist eine Person nicht länger Mitglied in einem Verein, wird stattdessen die Rol
 Dazu navigiert man zuerst auf die Person. Im Info Tab rechts sind alle aktiven Rollen dieser Person ersichtlich.
 Mit dem Papierkorb kann nun die Rolleder Person beendet werden.
 ![image](images/mitglied_loeschen1.png)
-
 Hat die Person noch weitere Rollen in anderen Gruppen, so ist sie dort noch immer ersichtlich.
 War dies die letzte Rolle einer Person, so erscheint die Person nur noch in der Gruppe `Ohne Rollen`.
 Personen in der Gruppe `Ohne Rollen` können nur von Administratoren vom EJV endgültig gelöscht werden.
@@ -84,12 +83,16 @@ Personen in der Gruppe `Ohne Rollen` können nur von Administratoren vom EJV end
 ## Mitgliederlisten erstellen und exportieren
 
 ### Mitgliederliste einer Gruppe exportieren.
-Will man eine Liste sämtlicher Personen in einer Gruppe exportieren, kann man dies einfach auf der Personenübersicht der entsprechenden Gruppe über den Button "Export" ausführen.
+Will man eine Liste sämtlicher Personen in einer Gruppe exportieren, kann man dies einfach in der entsprechenden Gruppe `1` auf der Personenübersicht `2` über den Button "Export" `3` ausführen.
+
 Hier hat man die Auswahl zwischen verschiedenen Exportformaten.
 Bei CSV und Excel kann anschliessend ausgewählt werden, ob man die aktuell angezeigten Spalten, eine einfache Adressliste, alle Angaben der Personen oder eine Haushaltsliste in der Personen die im gleichen Haushalt wohnen zusammengefasst werden exportieren will.
-
-Bei sehr grossen listen kann dies eine gewisse Zeit dauern. 
+![image](images/export1.png)
+Bei sehr grossen Listen kann dies eine gewisse Zeit dauern. 
 Der Export wird anschliessend direkt heruntergeladen und auf dem eigenen PC gespeichert.
+
+### Personenliste exportieren
+
 
 ## Abos erstellen und verwalten
 
