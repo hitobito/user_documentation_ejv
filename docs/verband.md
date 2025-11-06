@@ -91,7 +91,14 @@ Bei CSV und Excel kann anschliessend ausgewählt werden, ob man die aktuell ange
 Bei sehr grossen Listen kann dies eine gewisse Zeit dauern. 
 Der Export wird anschliessend direkt heruntergeladen und auf dem eigenen PC gespeichert.
 
-### Personenliste exportieren
+### Personenliste  erstellen und exportieren
+Will man eine Liste von Personen aufrufen welche nicht alle in der gleichen Gruppe sind, jedoch sonnst gewisse gemeinsame Attribute haben, so kann dies über den Personenfilter gemacht werden.
+Dazu wird zuerst links auf die Gruppe des Unterverbands navigiert. Hier kann im Tab "Personen" unter "Weitere Ansichten" entweder ein zuvor gespeicherter Filter ausgewählt, oder ein Neuer Filter erstellt werden.
+![image](images/export2.png)
+
+![image](images/export3.png)
+
+
 
 
 ## Abos erstellen und verwalten
