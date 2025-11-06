@@ -66,8 +66,8 @@ Ist ein Mitglied umgezogen und muss die Adresse geändert werden, so muss zuerst
 Dies kann über die globale suche, oder über die Navigation links geschehen.
 Mit `Bearbeiten` können anschliessend alle Personendaten angepasst werden.
 
-Werden Adressmutationen noch im Jahr 2025 vorgenommen, muss der Person anschliessend das Tag `Som-Nov` gegeben werden.
-
+Werden Adressmutationen noch im **Jahr 2025** vorgenommen, muss der Person anschliessend das Tag `Som-Nov` gegeben werden.
+![image](images/Som-Nov.png)
 
 ## Mitglieder löschen
 
