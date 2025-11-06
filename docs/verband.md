@@ -83,7 +83,13 @@ Personen in der Gruppe `Ohne Rollen` können nur von Administratoren vom EJV end
 
 ## Mitgliederlisten erstellen und exportieren
 
-\-tbd-
+### Mitgliederliste einer Gruppe exportieren.
+Will man eine Liste sämtlicher Personen in einer Gruppe exportieren, kann man dies einfach auf der Personenübersicht der entsprechenden Gruppe über den Button "Export" ausführen.
+Hier hat man die Auswahl zwischen verschiedenen Exportformaten.
+Bei CSV und Excel kann anschliessend ausgewählt werden, ob man die aktuell angezeigten Spalten, eine einfache Adressliste, alle Angaben der Personen oder eine Haushaltsliste in der Personen die im gleichen Haushalt wohnen zusammengefasst werden exportieren will.
+
+Bei sehr grossen listen kann dies eine gewisse Zeit dauern. 
+Der Export wird anschliessend direkt heruntergeladen und auf dem eigenen PC gespeichert.
 
 ## Abos erstellen und verwalten
 
