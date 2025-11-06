@@ -11,14 +11,13 @@ Entweder kann das allgemeine Neuregistrierungsformular vom Mitglied selbst, oder
 
 ### Neuregistrierungsformular
 
-Das Neuregistrierungsformular vom EJV kann über den folgenden Link aufgerufen werden:
-https://db.ejv.ch/de/groups/5/self_registration
-Dies kann durch eine beliebige Person gemacht werden.
+Über das [Neuregistrierungsformular](https://db.ejv.ch/de/groups/5/self_registration) vom EJV können beliebige Personen neu registriert werden.
+Dies kann entweder vom Neumittglied selbst ausgefüllt werden, oder jemand aus der Verwaltung kann dies auch im Namen des Neumitglieds ausfüllen.
 
 In einem ersten Schritt muss hier nun die Emailadresse der neu zu registrierenden Person eingegeben werden.
-Damit prüft Hitobito ob es für diese Person bereits einen EIntrag gibt, oder ob tatsächlich ein neuer Eintrag angelegt werden muss.
+Damit prüft Hitobito ob es für diese Person bereits einen Eintrag gibt, oder ob tatsächlich ein neuer Eintrag angelegt werden muss.
 
-Ist die Emailadresse bereits vergeben, kann das Mitglied selbst sich das Passwort zurücksetzen lassen und sich anschliessend selbst einloggen.
+Ist die Emailadresse bereits vergeben, kann das Mitglied selbst sich das Passwort zurücksetzen lassen und erhält dadurch eine Email mit welcher es sich einloggen kann. Eine Neuregistration ist in diesem Fall nicht notwendig.
 Ist die Emailadresse noch nicht vergeben, kommt man zum zweiten Schritt.
 Hier können nun die Personendaten ausgefüllt und das Formular anschliessend abgesendet werden.
 Ein Administrator des Eidgenössischen Jodlerverbands wird anschliessend das Neumitglied in die korrekte Gruppe einteilen.
