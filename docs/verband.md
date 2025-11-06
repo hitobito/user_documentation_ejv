@@ -24,52 +24,41 @@ Ein Administrator des Eidgenössischen Jodlerverbands wird anschliessend das Neu
 
 ![image](images/Selbstregistrierung_Neumitglied.png)
 
-
-
 ### Neumitglied erfassen
 
-Personen mit der Rolle `Administration` können in ihrem eigenen Unterverein neue Personen ersfassen.
+Personen mit der Rolle `Administration` können in ihrem eigenen Unterverein neue Personen erfassen.
 
 Dazu muss zuerst im der Navigation links in die korrekte Gruppe navigiert werden. Dort kann unter dem Menupunkt Personen ein neues Mitglied für diesen Verein erfasst werden.
+![image](images/mitglied_erfassen1.png)
 
-
-Im Menü Personen über den Button **Person hinzufügen** können
-Mitglieder, Ehemalige oder auch neue Personen, die zuerst erfasst werden
-müssen, der gewünschten Gruppe (mit entsprechender Rollenzuteilung)
-zugewiesen werden.
-
-![image](media/image20.png)
-
-Zuerst soll die Person über das Suchfeld mit Namen gesucht werden.
+Damit landet man auf der Maske "Person hinzufügen" zuerst in der Ansicht um eine bestehende Person zu suchen.
+Zuerst soll die Person über das Suchfeld mit Namen gesucht werden `1`.
 
 Anhand des Namens wird eine treffende Auswahl der bereits vorhandenen
 Mitgliedern mit Wohnort und Jahrgang angezeigt. Falls die gesuchte
-Person existiert, ist sie
+Person existiert, ist sie `2`
 
   - der gewünschten Gruppe,
   - mit entsprechender Rolle,
   - allenfalls einer weiteren Bezeichnung
   - und dem Eintrittsdatum zuzuweisen.
+![image](images/mitglied_erfassen2.png)
 
 Anschliessend empfiehlt es sich, die Angaben der Person zu prüfen und
 gegebenenfalls anzupassen. Hat das Mitglied noch keine
 Haupt-E-Mailadresse ist diese für den Login auf die Datenbank
 einzusetzen.
 
-![image](media/image21.png)
-
 Wenn bei der Eingabe des Namens keine Auswahl angezeigt wird, kann
-direkt über die Tastatur **Enter** gedrückt werden und man gelangt in
+direkt über die Tastatur **Enter** gedrückt, oder auf die Funktion "Neumitglied erfassen" `3` geklickt werden und man gelangt in
 die Maske für **Neue Person erfassen**.
 
-Hier müssen mindestens die mit einem Stern markierten Felder (Vorname,
-Nachname und Geburtstag) ausgefüllt werden.
+Hier müssen mindestens die mit einem Stern markierten Felder ausgefüllt und eine Rolle ausgewählt werden.
+![image](images/mitglied_erfassen3.png)
 
-Allenfalls muss die Gruppenzugehörigkeit und Rolle angepasst werden.
-
-Um weitere wichtige Schritte gleich zu erledigen, empfiehlt es sich auch
-gleich die Felder **Haupt-E-Mail** und das Datum des **Eintritts**
-auszufüllen.
+Mit `Speichern` wird die Person mit der entsprechenden Rolle angelegt.
+Im Anschluss landet man auf dem Profil des Neumitglieds und kann bei Bedarf noch weitere Daten zur Person erfassen.
+![image](images/mitglied_erfassen4.png)
 
 ## Adressmutationen
 
