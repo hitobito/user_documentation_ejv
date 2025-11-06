@@ -1,20 +1,16 @@
-Verband administrieren ![iconSchloss](media/image2.png)
+Verband administrieren
 ======================
 
-In diesem Kapitel werden Spezialfunktionen erläutert, um Kantonal- und
-Regionalverbände zu verwalten. Diese sind nur für Personen sichtbar oder
-zugänglich, welche die entsprechende Gruppenzugehörigkeit und Rolle
-besitzen.
+In diesem Kapitel werden Spezialfunktionen erläutert, um Regionalverbände zu verwalten. Diese sind nur für Personen sichtbar oder
+zugänglich, welche die entsprechende Gruppenzugehörigkeit und Rolle besitzen.
 
 ## Modul Gruppen
 
 ### Mitglieder löschen
 
-Administratoren der Kantonalverbände und des EJV können Personen
+Administratoren der Unterverbände und des EJV können Personen
 löschen. Den entsprechenden Button findet sich bei der entsprechenden
 Person in der Ansicht "Info":
-
-![image](media/image22.png)
 
 ### Kurse
 
