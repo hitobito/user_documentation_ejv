@@ -28,7 +28,10 @@ Ein Administrator des Eidgenössischen Jodlerverbands wird anschliessend das Neu
 
 ### Neumitglied erfassen
 
-![image](media/image19.png)
+Personen mit der Rolle `Administration` können in ihrem eigenen Unterverein neue Personen ersfassen.
+
+Dazu muss zuerst im der Navigation links in die korrekte Gruppe navigiert werden. Dort kann unter dem Menupunkt Personen ein neues Mitglied für diesen Verein erfasst werden.
+
 
 Im Menü Personen über den Button **Person hinzufügen** können
 Mitglieder, Ehemalige oder auch neue Personen, die zuerst erfasst werden
