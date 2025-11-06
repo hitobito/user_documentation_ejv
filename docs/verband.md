@@ -22,7 +22,8 @@ Ist die Emailadresse noch nicht vergeben, kommt man zum zweiten Schritt.
 Hier können nun die Personendaten ausgefüllt und das Formular anschliessend abgesendet werden.
 Ein Administrator des Eidgenössischen Jodlerverbands wird anschliessend das Neumitglied in die korrekte Gruppe einteilen.
 
-.. image:: images/Selbstregistrierung_Neumitglied.png
+![image](images/Selbstregistrierung_Neumitglied.png)
+
 
 
 ### Neumitglied erfassen
