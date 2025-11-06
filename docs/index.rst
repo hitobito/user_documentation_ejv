@@ -16,8 +16,8 @@ Hitobito Benutzeranleitung für den Eidgenössichen Jodlerverband
    :maxdepth: 4
    :caption: Vereine/Verbände
    
-   verein
    verband
+   verein
    
 .. toctree::
    :maxdepth: 4
