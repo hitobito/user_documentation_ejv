@@ -71,9 +71,15 @@ Werden Adressmutationen noch im **Jahr 2025** vorgenommen, muss der Person ansch
 
 ## Mitglieder löschen
 
-Administratoren der Unterverbände und des EJV können Personen
-löschen. Den entsprechenden Button findet sich bei der entsprechenden
-Person in der Ansicht "Info":
+Personen können durch die Administration eines Unterverbandes nicht komplett gelöscht werden.
+Ist eine Person nicht länger Mitglied in einem Verein, wird stattdessen die Rolle in der entsprechenden Gruppe gelöscht.
+Dazu navigiert man zuerst auf die Person. Im Info Tab rechts sind alle aktiven Rollen dieser Person ersichtlich.
+Mit dem Papierkorb kann nun die Rolleder Person beendet werden.
+![image](images/mitglied_loeschen1.png)
+
+Hat die Person noch weitere Rollen in anderen Gruppen, so ist sie dort noch immer ersichtlich.
+War dies die letzte Rolle einer Person, so erscheint die Person nur noch in der Gruppe `Ohne Rollen`.
+Personen in der Gruppe `Ohne Rollen` können nur von Administratoren vom EJV endgültig gelöscht werden.
 
 ## Mitgliederlisten erstellen und exportieren
 
