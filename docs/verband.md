@@ -60,6 +60,7 @@ Mit `Speichern` wird die Person mit der entsprechenden Rolle angelegt.
 Im Anschluss landet man auf dem Profil des Neumitglieds und kann bei Bedarf noch weitere Daten zur Person erfassen.
 ![image](images/mitglied_erfassen4.png)
 
+---
 ## Adressmutationen
 
 Ist ein Mitglied umgezogen und muss die Adresse geändert werden, so muss zuerst auf die Person navigiert werden.
