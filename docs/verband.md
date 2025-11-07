@@ -69,6 +69,15 @@ Mit `Bearbeiten` können anschliessend alle Personendaten angepasst werden.
 Werden Adressmutationen noch im **Jahr 2025** vorgenommen, muss der Person anschliessend das Tag `Som-Nov` gegeben werden.
 ![image](images/Som-Nov.png)
 
+## Rollenmutationen
+
+### Rolle innerhalb einer Gruppe ändern
+
+### Neue Rolle in der gleichen Gruppe
+
+### Neue Rolle in neuer Gruppe
+
+
 ## Mitglieder löschen
 
 Personen können durch die Administration eines Unterverbandes nicht komplett gelöscht werden.
