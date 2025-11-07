@@ -70,6 +70,7 @@ Mit `Bearbeiten` können anschliessend alle Personendaten angepasst werden.
 Werden Adressmutationen noch im **Jahr 2025** vorgenommen, muss der Person anschliessend das Tag `Som-Nov` gegeben werden.
 ![image](images/Som-Nov.png)
 
+---
 ## Rollenmutationen
 
 ### Rolle innerhalb einer Gruppe ändern
@@ -78,7 +79,7 @@ Werden Adressmutationen noch im **Jahr 2025** vorgenommen, muss der Person ansch
 
 ### Neue Rolle in neuer Gruppe
 
-
+---
 ## Mitglieder löschen
 
 Personen können durch die Administration eines Unterverbandes nicht komplett gelöscht werden.
@@ -90,6 +91,7 @@ Hat die Person noch weitere Rollen in anderen Gruppen, so ist sie dort noch imme
 War dies die letzte Rolle einer Person, so erscheint die Person nur noch in der Gruppe `Ohne Rollen`.
 Personen in der Gruppe `Ohne Rollen` können nur von Administratoren vom EJV endgültig gelöscht werden.
 
+---
 ## Mitgliederlisten erstellen und exportieren
 
 ### Mitgliederliste einer Gruppe exportieren.
@@ -110,31 +112,33 @@ Dazu wird zuerst links auf die Gruppe des Unterverbands navigiert. Hier kann im 
 
 
 
-
+---
 ## Abos erstellen und verwalten
 
 \-tbd-
 
-
+---
 ## Anlässe erstellen und verwalten
 
 \-tbd-
 
+---
 ## Kurse erstellen und verwalten
 
 \-tbd-
 
-
+---
 ## Rechnungen
 
 \-tbd-
 
+---
 ## SUISA
 
 \-tbd-
 
 
-
+---
 ## Modul Hilfe
 
 ### Hilfetext
