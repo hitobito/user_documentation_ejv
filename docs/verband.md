@@ -92,13 +92,20 @@ Mit Speichern wird dies geändert. Die alte Rolle wird per heute terminiert.
 ### Neue Rolle in der gleichen Gruppe hinzufügen
 Will man einer Person eine neue, zusätzliche Rolle in einer Gruppe geben, navigiert man zuerst auf die Person.
 Über den Button Rolle hinzufügen `1` gelangt man auf die Maske um eineneue Rolle anzulegen.
-
+![image](images/roles4.png)
 Hier wählt man  `1` die neue Gruppe und Rolle auswählen kann. Anschliessend kann man ein Start und bei Bedarf Enddatum für die Rolle setzen `2`.
 Rechts wird einem dabei angezeigt, welche Rechte die neue Rolle haben wird `3`.
 Mit Speichern erhält die Person die zusätzliche Rolle. Ist das Startdatum der Rolle in der Zukunft, so ist dies nicht per sofort auf der Person, sondern nur im Verlauf der Person ersichtlich.
-
+![image](images/roles5.png)
 
 ### Neue Rolle in neuer Gruppe
+Will man einer Person eine neue Rolle in einer komplett anderen Gruppe geben, so muss man zuerst links in der Übersicht auf die entsprechende Gruppe navigieren `1`. 
+Anschliessend kann man im Personen-Tab `2` dieser Gruppe "Person hinzufügen" `3` auswählen.
+![image](images/roles6.png)
+Hier kann man nun die bestehende Person suchen. Dazu gibt man den Namen der Person welche die neue Rolle erhalten soll im Suchfeld `1`ein und wählt die korrekte Person aus.
+Anschliessend wählt man auch hier die entsprechende Rolle aus `2` und sieht rechts was die Rolle für Rechte hat. 
+Letztlich wählt man Eintritts- und allenfalls Austrittsdatum an `3` und speichert.
+![image](images/roles7.png)
 
 ---
 ## Mitglieder löschen
