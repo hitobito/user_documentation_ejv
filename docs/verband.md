@@ -78,15 +78,16 @@ Um einer Person eine andere Rolle innerhalb einer Gruppe zu geben, gibt es mehre
 Am einfachsten kann man dies direkt auf der Personenübersichtder Gruppe vornehmen. 
 
 Dazu klickt man `1` auf Bearbeiten, wählt dann `2` die neue Rolle aus und speichert diese `3`.
-
+![image](images/roles1.png)
 Dadurch wird die alte Rolle per heute beendet. Die neue Rolle hat das gleiche Startdatum wie die bisherige Rolle hatte.
 
 Möchte man ein anderes Startdatum eingeben können, so kann man die Rolle auch direkt auf der Personenübersicht ändern. 
 Dazu navigiert man zuerst auf die entsprechende Person und bearbeitet die Rolle direkt auf dieser Ansicht.
-
+![image](images/roles2.png)
 Dabei gelangt man auf eine neue Ansicht in der man `1` die neue Gruppe und Rolle auswählen kann. Anschliessend kann man ein Start und bei Bedarf Enddatum für die Rolle setzen `2`.
 Rechts wird einem dabei angezeigt, welche Rechte die neue Rolle haben wird `3`.
 Mit Speichern wird dies geändert. Die alte Rolle wird per heute terminiert.
+![image](images/roles3.png)
 
 ### Neue Rolle in der gleichen Gruppe hinzufügen
 
