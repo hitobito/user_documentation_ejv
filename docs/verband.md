@@ -144,9 +144,11 @@ Dazu wird zuerst links auf die Gruppe des Unterverbands navigiert. Hier kann im 
 ## Abos erstellen und verwalten
 Hinter den Abos versteckt sich ein mächtiger Personenfilter welcher vielseitig einsetzbar ist.
 Mögliche Einsatzgebiete für Abos sind Exporte von Personenlisten, Email-Verteiler, Listen für den Physikalischen Zeitschriftenversand, Rechnungsversand und mehr.
+
+### Abo erstellen
+Von Personen mit Leserechten auf einer Gruppe, können für diese und darunterliegende Gruppen Abos erstellt und verwaltet werden.
+Dafür geht man auf der obersten Gruppen von welcher man Personen in diesem Abo inkludieren möchte auf den Tab Abos, und wählt "Abo erstellen"
 ![image](images/abo1.png)
-Von Persoenen mit Leserechten auf einer Gruppe, können für diese und darunterliegende Gruppen Abos erstellt und verwaltet werden.
-Dafür geht man auf der obersten Gruppen von welcher man Personen in diesem Abo inkludieren möchte auf den Tab Abos, und wählt "Abo erstelltn"
 Will man also Beispielsweise leute der ganzen SChweiz inkludieren, muss das Abo auf dem Dachverband erstellt werden. Will man nur Personen von BKJV inkludieren, kann man das abo auf dieser Gruppe erstellen. Man kann abera uch Abos für Lokalgruppen auf einer einzelnen Jodlergruppe erstellen und dann nur Personen dieser Gruppe inkludieren. 
 
 Im Tab Allgemein gibt es die folgenden Einstellungsmöglichkeiten:
@@ -168,10 +170,15 @@ Im Tab MailChimp gibt es Einstellungsmöglichkeiten falls die Adresslisten diese
 - Sowohl die MailChimp Listen-ID wie auch der MailChimp API-Schlüssel bekommt man direkt von Mailchimp.
 - Jede MailChimp Liste kann nur auf genau ein Abo in Hitobito gemappt werden.
 
+### Abonennten definieren
+Hat man ein Abonement erstellt, kann nach dem Speichern im Tab "Abonennten" definiert werden, wer in diesem Abonemment inkludiert werden soll 
 
-
-
-
+- Personen hinzufügen: Hier kann eine Einzelperson hinzugefügt werden. Dies macht nur Sinn, wenn eine spezifische Person welche die sonnstigen Auswahlkriterien sonnst nicht erfüllt ebenfalls im Abo aufgenommen werden soll.
+- Gruppen/Rollen hinzufügen: Hier kann nach einer Gruppe gesucht werden. Am besten sucht man hier nach der obersten Gruppe von der man Personen inkludieren will. Es erscheint anschliessend eine Auswahl aller Rollentypen in dieser Gruppe und deren Untergruppen. Hier kann definiert werden, soll ein Abo alle Personen einer bestimmten Rolle inkludieren. Zusätzlich können hier auch Personen mit bestimmten Tags inludiert oder exkludiert werden. Dabei können auch mehrere Tags miteinander kombiniert werden. 
+- Anlass Hinzufügen: Möchte man in einem Abo automatisch alle Personen eines bestimmten Anlasses inkludieren, kann man hier diesen Anlass auswählen.
+- Personen ausschliessen: Damit können Einzelpersonen die sonnst alle Kriterien erfüllen trotzdem ausschliessen.
+- Globale Bedingungen: Hier kann fast jedes Feld in Hitobito gesucht und gefiltert werden. Beispielsweise kann nach bestimmten Sprachen, Geschlecht, Alter, Wohnort und vielem mehr gefiltert werden. 
+![image](images/abo5.png)
 
 
 ---
