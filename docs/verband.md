@@ -193,6 +193,9 @@ Hat sich ein Mitglied vor Minuten neu angemeldet, erhält es den Versand an alle
 - Rechnungsbrief erstellen: Hier können Briefe, mit einer zugehörigen Rechnung erstellt werden. Dies sieht gleich aus wie ein Brief, hat jedoch auch einen Einzahlungsschein.
 - SMS-Versand: Falls konfiguriert kann über das Tab "Nachrichten" SMS versendet werden.
 
+### Nachrichten und Bounces
+Im Tab "Nachrichten" eines Abonennts, sieht man sämtliche Versände über dieses Abonennt. Dies beinhaltet Mailversände, Briefe, Rechnungsbrief und SMS. Aber nicht Rechnungen. Diese sind weiterhin nur für Personen mit Rechnungsberechtigungen im Rechnungsmenu selbst ersichtlich.
+Im Tab "Bounces" ist ersichtlich, falls Emails aus diesem Abo nicht zustellbar waren. Erhält man auf einen Mailversand ein Email-Bounce so ist hier ersichtlich bei welchen Personen dies geschehen ist, und die die Mails entsprechend vermtlich nicht erhalten haben.
 
 ---
 ## Anlässe erstellen und verwalten
