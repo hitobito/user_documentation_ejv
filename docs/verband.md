@@ -170,7 +170,7 @@ Im Tab Mailing-Liste (Email) gibt es die folgenden Einstellungsmöglichkeiten:
 - Abonnenten dürfen auf die Mailingliste schreiben: Ist dieser Punkt angewählt, dürfen alle Empfänger der Abo-Liste auch selbst auf diese schreiben. Bei vielen Empfänger wird davon eher abgeraten.
 - Beliebige Absender/-innen dürfen auf die Mailingliste schreiben: Ist dieser Punkta ngewählt dürfen beliebige Absender an den Abo-Verteiler schreiben. Ausser bei sehr spezifischen Usecases wird davon klar abgeraten.
 - E-Mail mit Bestätigung an Absender schicken: Ist dies angewählt, erhält der Absender einer Email eine Bestätigung nachdem alle Emails versendet wurden.
-- 
+
 ![image](images/abo3.png)
 
 Im Tab MailChimp gibt es Einstellungsmöglichkeiten falls die Adresslisten dieses Abonements mit einem bestehenden Mailchimp Konto Synchronisiert werden sollen.
@@ -180,29 +180,29 @@ Im Tab MailChimp gibt es Einstellungsmöglichkeiten falls die Adresslisten diese
 ### Abonennten definieren
 Hat man ein Abonement erstellt, kann nach dem Speichern im Tab "Abonennten" definiert werden, wer in diesem Abonemment inkludiert werden soll 
 
-- Personen hinzufügen: Hier kann eine Einzelperson hinzugefügt werden. Dies macht nur Sinn, wenn eine spezifische Person welche die sonnstigen Auswahlkriterien sonnst nicht erfüllt ebenfalls im Abo aufgenommen werden soll.
-- Gruppen/Rollen hinzufügen: Hier kann nach einer Gruppe gesucht werden. Am besten sucht man hier nach der obersten Gruppe von der man Personen inkludieren will. Es erscheint anschliessend eine Auswahl aller Rollentypen in dieser Gruppe und deren Untergruppen. Hier kann definiert werden, soll ein Abo alle Personen einer bestimmten Rolle inkludieren. Zusätzlich können hier auch Personen mit bestimmten Tags inludiert oder exkludiert werden. Dabei können auch mehrere Tags miteinander kombiniert werden. 
-- Anlass Hinzufügen: Möchte man in einem Abo automatisch alle Personen eines bestimmten Anlasses inkludieren, kann man hier diesen Anlass auswählen.
-- Personen ausschliessen: Damit können Einzelpersonen die sonnst alle Kriterien erfüllen trotzdem ausschliessen.
-- Globale Bedingungen: Hier kann fast jedes Feld in Hitobito gesucht und gefiltert werden. Beispielsweise kann nach bestimmten Sprachen, Geschlecht, Alter, Wohnort und vielem mehr gefiltert werden.
+- **Personen hinzufügen:** Hier kann eine Einzelperson hinzugefügt werden. Dies macht nur Sinn, wenn eine spezifische Person welche die sonnstigen Auswahlkriterien sonnst nicht erfüllt ebenfalls im Abo aufgenommen werden soll.
+- **Gruppen/Rollen hinzufügen:** Hier kann nach einer Gruppe gesucht werden. Am besten sucht man hier nach der obersten Gruppe von der man Personen inkludieren will. Es erscheint anschliessend eine Auswahl aller Rollentypen in dieser Gruppe und deren Untergruppen. Hier kann definiert werden, soll ein Abo alle Personen einer bestimmten Rolle inkludieren. Zusätzlich können hier auch Personen mit bestimmten **Tags** inludiert oder exkludiert werden. Dabei können auch mehrere Tags miteinander kombiniert werden. 
+- **Anlass Hinzufügen:** Möchte man in einem Abo automatisch alle Personen eines bestimmten Anlasses inkludieren, kann man hier diesen Anlass auswählen.
+- **Personen ausschliessen:** Damit können Einzelpersonen die sonnst alle Kriterien erfüllen trotzdem ausschliessen.
+- **Globale Bedingungen:** Hier kann fast jedes Feld in Hitobito gesucht und gefiltert werden. Beispielsweise kann nach bestimmten Sprachen, Geschlecht, Alter, Wohnort und vielem mehr gefiltert werden.
 
 ![image](images/abo5.png)
 
 ### Abos verwenden:
 Ist ein Abo einmal eingerichtet kann es vielseitig verwendet werden.
-Der Grosse vorteil von Abos ist dabei, dass sie immer aktuell sind. 
+Der grosse Vorteil von Abos ist dabei, dass sie immer aktuell sind. 
 Hat sich ein Mitglied vor Minuten neu angemeldet, erhält es den Versand an alle Mitglieder sofort. Hat jemand die Rolle Präsidium kürzlich verloren, erhält er den Präsidiums-Versand automatisch nicht mehr, ohne dass irgendwelche Mailinglisten angepasst werden müssen.
 
-- Email Versenden: Will man ein Email an alle Personen im Abo versenden, so kann man dieses Email im eigenen Mailprogramm erstellen. Man sendet dieses dann an die Mailingliste. Diese verteilt das Email an alle Abonennten. Die Mailingliste findet man im Abo auf dem Tab Info.
-- Rechnungen versenden: Rechnungen an alle Abonennten können über das Tab "Abonnenten" versendet werden.
-- Export von Personenlisten: Eine Liste aller Abonnenten kann über das Tab "Abonnenten" exportiert werden.
-- Serienbrief: Im Tab "Nachrichten" kann ein Serienbrief erstellt und anschliessend als PDF gedruckt werden.
-- Rechnungsbrief erstellen: Hier können Briefe, mit einer zugehörigen Rechnung erstellt werden. Dies sieht gleich aus wie ein Brief, hat jedoch auch einen Einzahlungsschein.
-- SMS-Versand: Falls konfiguriert kann über das Tab "Nachrichten" SMS versendet werden.
+- **Email Versenden:** Will man ein Email an alle Personen im Abo versenden, so kann man dieses Email im eigenen Mailprogramm erstellen. Man sendet dieses dann an die Mailingliste. Diese verteilt das Email an alle Abonennten. Die Mailingliste findet man im Abo auf dem Tab Info.
+- **Rechnungen versenden:** Rechnungen an alle Abonennten können über das Tab "Abonnenten" versendet werden.
+- **Export von Personenlisten:** Eine Liste aller Abonnenten kann über das Tab "Abonnenten" exportiert werden.
+- **Serienbrief:** Im Tab "Nachrichten" kann ein Serienbrief erstellt und anschliessend als PDF gedruckt werden.
+- **Rechnungsbrief erstellen:** Hier können Briefe, mit einer zugehörigen Rechnung erstellt werden. Dies sieht gleich aus wie ein Brief, hat jedoch auch einen Einzahlungsschein.
+- **SMS-Versand:** Falls konfiguriert kann über das Tab "Nachrichten" SMS versendet werden.
 
 ### Nachrichten und Bounces
-Im Tab "Nachrichten" eines Abonennts, sieht man sämtliche Versände über dieses Abonennt. Dies beinhaltet Mailversände, Briefe, Rechnungsbrief und SMS. Aber nicht Rechnungen. Diese sind weiterhin nur für Personen mit Rechnungsberechtigungen im Rechnungsmenu selbst ersichtlich.
-Im Tab "Bounces" ist ersichtlich, falls Emails aus diesem Abo nicht zustellbar waren. Erhält man auf einen Mailversand ein Email-Bounce so ist hier ersichtlich bei welchen Personen dies geschehen ist, und die die Mails entsprechend vermtlich nicht erhalten haben.
+Im Tab **Nachrichten** eines Abonennts, sieht man sämtliche Versände über dieses Abonennt. Dies beinhaltet Mailversände, Briefe, Rechnungsbrief und SMS. Aber nicht Rechnungen. Diese sind weiterhin nur für Personen mit Rechnungsberechtigungen im Rechnungsmenu selbst ersichtlich.
+Im Tab **Bounces** ist ersichtlich, falls Emails aus diesem Abo nicht zustellbar waren. Erhält man auf einen Mailversand ein Email-Bounce so ist hier ersichtlich bei welchen Personen dies geschehen ist, und die die Mails entsprechend vermtlich nicht erhalten haben.
 
 ---
 ## Anlässe erstellen und verwalten
