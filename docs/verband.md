@@ -144,6 +144,7 @@ Dazu wird zuerst links auf die Gruppe des Unterverbands navigiert. Hier kann im 
 ## Abos erstellen und verwalten
 Hinter den Abos versteckt sich ein mächtiger Personenfilter welcher vielseitig einsetzbar ist.
 Mögliche Einsatzgebiete für Abos sind Exporte von Personenlisten, Email-Verteiler, Listen für den Physikalischen Zeitschriftenversand, Rechnungsversand und mehr.
+Der Grosse Vorteil von Abos ist dabei, dass diese immer aktuell sind. Meldet sich ein Mitglied neu zu einem Verein an, ist es sofort im Versand der Vereinszeitschrift inkludiert. Übernimmt eine Person ein Amto, oder verliert dieses wieder, ist sie sofort im Versand an alle Personen dieses Amtes inkludiert, und nach Ablauf des Amtes sofort wieder nicht mehr, ohne dass dies mühsam in vielen Mailinglisten nachgeführt werden muss. 
 
 ### Abo erstellen
 Von Personen mit Leserechten auf einer Gruppe, können für diese und darunterliegende Gruppen Abos erstellt und verwaltet werden.
@@ -179,6 +180,18 @@ Hat man ein Abonement erstellt, kann nach dem Speichern im Tab "Abonennten" defi
 - Personen ausschliessen: Damit können Einzelpersonen die sonnst alle Kriterien erfüllen trotzdem ausschliessen.
 - Globale Bedingungen: Hier kann fast jedes Feld in Hitobito gesucht und gefiltert werden. Beispielsweise kann nach bestimmten Sprachen, Geschlecht, Alter, Wohnort und vielem mehr gefiltert werden. 
 ![image](images/abo5.png)
+
+### Abos verwenden:
+Ist ein Abo einmal eingerichtet kann es vielseitig verwendet werden.
+Der Grosse vorteil von Abos ist dabei, dass sie immer aktuell sind. 
+Hat sich ein Mitglied vor Minuten neu angemeldet, erhält es den Versand an alle Mitglieder sofort. Hat jemand die Rolle Präsidium kürzlich verloren, erhält er den Präsidiums-Versand automatisch nicht mehr, ohne dass irgendwelche Mailinglisten angepasst werden müssen.
+
+- Email Versenden: Will man ein Email an alle Personen im Abo versenden, so kann man dieses Email im eigenen Mailprogramm erstellen. Man sendet dieses dann an die Mailingliste. Diese verteilt das Email an alle Abonennten. Die Mailingliste findet man im Abo auf dem Tab Info.
+- Rechnungen versenden: Rechnungen an alle Abonennten können über das Tab "Abonnenten" versendet werden.
+- Export von Personenlisten: Eine Liste aller Abonnenten kann über das Tab "Abonnenten" exportiert werden.
+- Serienbrief: Im Tab "Nachrichten" kann ein Serienbrief erstellt und anschliessend als PDF gedruckt werden.
+- Rechnungsbrief erstellen: Hier können Briefe, mit einer zugehörigen Rechnung erstellt werden. Dies sieht gleich aus wie ein Brief, hat jedoch auch einen Einzahlungsschein.
+- SMS-Versand: Falls konfiguriert kann über das Tab "Nachrichten" SMS versendet werden.
 
 
 ---
