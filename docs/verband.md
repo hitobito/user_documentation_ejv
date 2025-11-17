@@ -144,7 +144,7 @@ Dazu wird zuerst links auf die Gruppe des Unterverbands navigiert. Hier kann im 
 ## Abos erstellen und verwalten
 Hinter den Abos versteckt sich ein mächtiger Personenfilter welcher vielseitig einsetzbar ist.
 Mögliche Einsatzgebiete für Abos sind Exporte von Personenlisten, Email-Verteiler, Listen für den Physikalischen Zeitschriftenversand, Rechnungsversand und mehr.
-
+![image](images/abo1.png)
 Von Persoenen mit Leserechten auf einer Gruppe, können für diese und darunterliegende Gruppen Abos erstellt und verwaltet werden.
 Dafür geht man auf der obersten Gruppen von welcher man Personen in diesem Abo inkludieren möchte auf den Tab Abos, und wählt "Abo erstelltn"
 Will man also Beispielsweise leute der ganzen SChweiz inkludieren, muss das Abo auf dem Dachverband erstellt werden. Will man nur Personen von BKJV inkludieren, kann man das abo auf dieser Gruppe erstellen. Man kann abera uch Abos für Lokalgruppen auf einer einzelnen Jodlergruppe erstellen und dann nur Personen dieser Gruppe inkludieren. 
@@ -155,7 +155,7 @@ Im Tab Allgemein gibt es die folgenden Einstellungsmöglichkeiten:
 - Herausgeber: Optionales Feld, welches beim Auswählen neuer Abonements angezeigt wird und beim einordnen des Abos hilfreich sein kann.
 - Selbst an/abmelden: Diese Auswahl gibt an, ob sich Personen selbst für dieses Abo an oder abmelden können. Es kann auch ausgewählt werden, ob sich nur die Personen welche ausgewählt werden anmelden dürfen, oder alle Personen in der Hitobito Datenbank.
 - Personen sind Standartmässig: Hat man beim oberen Punkt eine der beiden hinteren Optionen ausgewählt, erscheint diese Auswahlmöglichkeit. Angemeldet(opt-out) bedeutet dass die definierten Personen standartmässig alle angemeldet sind, sich jedoch manuell abmelden können. Abgemeldet (opt-out) Bedeutet dass standartmässig keine Personen in dem Abo vorhanden sind, die definierten Personen sich aber manuell zu dem Abo anmelden können.
-
+![image](images/abo2.png)
 Im Tab Mailing-Liste (Email) gibt es die folgenden Einstellungsmöglichkeiten:
 - Mailinglisten Adresse: Versendet man Emails über dieses Abo so ist dies die Absenderadresse welche die betreffenden Personen sehen.
 - Zusätzlicher Absender: Müssen einzelne, weitere Personen als nur Personen mit Schreibrechte auf dieser Gruppe auch über dieses Abo Emails versenden können, können die entsprechenden Emailadressen hier eingetragen werden.
@@ -163,7 +163,7 @@ Im Tab Mailing-Liste (Email) gibt es die folgenden Einstellungsmöglichkeiten:
 - Abonnenten dürfen auf die Mailingliste schreiben: Ist dieser Punkt angewählt, dürfen alle Empfänger der Abo-Liste auch selbst auf diese schreiben. Bei vielen Empfänger wird davon eher abgeraten.
 - Beliebige Absender/-innen dürfen auf die Mailingliste schreiben: Ist dieser Punkta ngewählt dürfen beliebige Absender an den Abo-Verteiler schreiben. Ausser bei sehr spezifischen Usecases wird davon klar abgeraten.
 - E-Mail mit Bestätigung an Absender schicken: Ist dies angewählt, erhält der Absender einer Email eine Bestätigung nachdem alle Emails versendet wurden.
-
+![image](images/abo3.png)
 Im Tab MailChimp gibt es Einstellungsmöglichkeiten falls die Adresslisten dieses Abonements mit einem bestehenden Mailchimp Konto Synchronisiert werden sollen.
 - Sowohl die MailChimp Listen-ID wie auch der MailChimp API-Schlüssel bekommt man direkt von Mailchimp.
 - Jede MailChimp Liste kann nur auf genau ein Abo in Hitobito gemappt werden.
