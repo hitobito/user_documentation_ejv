@@ -225,7 +225,7 @@ Ob eine Person Rechnungen verwalten kann hängt davon ab, ob sie eine entspreche
 --------------------------
 In den Rechnungseinstellungen werden pro Ebene gültige Angaben gemacht. Hier werden die allgemeinen Rechnungseinstellungen verwaltet und Mahnungsfristen und -texte definiert. Zudem können Einstellungen zum Email-Versand und Rechnungslayout vorgenommen werden, sowie Zahlungsschnittstellen eingerichtet werden.
 
-.. image:: images/AnsichtRechnung.png
+![image](Rechnung_Ansicht.png)
 
 Hinweis: Damit Rechnungen versendet werden können müssen gültige Rechnungseinstellungen vorhanden sein.
 
@@ -233,7 +233,7 @@ Hinweis: Damit Rechnungen versendet werden können müssen gültige Rechnungsein
 ---------------------------------------
 Häufig verwendete Rechnungspositionen (z.B. Mitgliederbeitrag, Jahresabo, etc.) können hier pro Ebene vordefiniert werden. Diese Artikel können beim Erstellen von Rechnungen ausgewählt und individuell angepasst werden.
 
-.. image:: images/Rechnungsartikel.png
+![image](Rechnungsartikel.png)
 
 Hinweis: Die Felder Kostenstelle und Konto haben in Hitobito keine Funktion. Sie sind lediglich für einen allfälligen Export in eine Buchhaltungssoftware vorhanden.
 
@@ -287,7 +287,7 @@ Q1: Ich kann keine Rechnungen stellen oder Zahlungen erfassen. Wenn ich auf den 
 A1: Die Rechnungseinstellungen sind ungültig. Dafür unter "Rechnungen" auf "Einstellungen" klicken und dort folgendes anpassen:
 Unter "Einzahlung für" die Daten aus "Alter Zahlungsempfänger" in die untenstehenden Pflichfelder eintragen. Danach speichern.
 
-.. image:: images/Rechnungseinstellungen.png
+![image](Rechnungseinstellungen.png)
 
 
 Q2: Ich kann keine Rechnungen erstellen. Die Gruppe als welche ich Rechnungen stellen mögcht ist ausgegraut.
