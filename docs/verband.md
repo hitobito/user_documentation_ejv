@@ -205,14 +205,107 @@ Im Tab **Nachrichten** eines Abonennts, sieht man sämtliche Versände über die
 Im Tab **Bounces** ist ersichtlich, falls Emails aus diesem Abo nicht zustellbar waren. Erhält man auf einen Mailversand ein Email-Bounce so ist hier ersichtlich bei welchen Personen dies geschehen ist, und die die Mails entsprechend vermtlich nicht erhalten haben.
 
 ---
-## Anlässe erstellen und verwalten
+Anlässe
+-------
 
-\-tbd-
+In Hitobito können unterschiedliche Arten von Events geführt werden. Einfache Anlässe und Kurse. Für gewisse Instanzen wurden zusätzliche Eventsarten wie Lager, Ferienlager oder Musikfeste ergänzt.
 
----
-## Kurse erstellen und verwalten
+Unter „Anlässe“ findet siche eine Übersicht über Anlässe von Gruppen, bei denen man selbst Mitglied ist, sowie deren Übergruppen. Andere Anlässe finden sich bei der organsierenden Gruppe:
 
-\-tbd-
+.. image:: images/AnsichtAnlaesse1.png
+
+Hier kann man sich direkt für einen Anlass anmelden, sofern die Anmledung bereits freigegeben beziehungsweise der Anmeldeschluss noch nicht eingetreten ist.
+
+Neuen Anlass erstellen
+~~~~~~~~~~~~~~~~~~~~~~
+Anlass erstellen in der gewünschten Gruppe, auf der entsprechenden Ebene:
+
+.. image:: images/AnlassErstellen.png
+
+.. image:: images/AnlassErstellen2.png
+
+Gästefeature
+~~~~~~~~~~~~~~~~~~~~~~
+Im Core gibt es die Möglichkeit dass Personen ihre Gäste an Anlässe anmelden können.
+
+Beim erstellen oder bearbeiten eines Anlasses hat man die Möglichkeit zu definieren ob und wie viele Gäste pro angemeldete Person an diesem Anlass teilnehmen dürfen.
+
+.. image:: images/Gäste2.png
+
+Wer sich nun für den Anlass anmelden möchte kann entscheiden, ob er oder sie nur sich selbst oder noch andere Personen für diesen anmelden möchte
+
+.. image:: images/Gäste3.png
+
+Möchte jemand Gäste anmelden kann dies wie folgt gemacht werden. Zuerst werden die Pflichtangaben eingetragen
+
+.. image:: images/Gäste4.png
+
+Anschliessend werden die Pflichfragen, wenn vorhanden, für den Gast ausgefüllt. Es kann dann auch entschieden werden, ob noch weitere Gäste angemeldet werden sollen. Das Prozedere der Anmeldung beginnt dann wieder von Vorne
+
+.. image:: images/Gäste5.png
+
+Event-Fragen Vorlagen
+~~~~~~~~~~~~~~~~~~~~~~
+Pro Layer können Event-Fragen Vorlagen definiert werden. Diese werden standardmässig in allen Events übernommen, oder können dort per Dropdown hinzugefügt werden.
+
+Um eine neue Fragen Vorlage zu erstellen, navigiert man auf dem Info-Tab eines Layers über den Bearbeiten-Button zum Menüpunkt "Vorlagen Anmeldeangaben Anlässe".
+
+.. image:: images/eventfragen1.png
+
+Im folgenden Menu können Vorlagen für Anmeldeangaben oder Administrationsangaben erstellt werden. 
+
+.. image:: images/eventfragen2.png
+
+Unabhängig davon ob eine Vorlage Defaultmässig angezeigt wird oder nicht, kann diese beim Erstellen eines Anlasses per Dropdown ausgewählt und dem Event hinzugefügt werden.
+Wird eine Frage welche Defaultmässig hinzugefügt wird nicht mehr benötigt, kann diese aus dem Event entfernt werden.
+Die Vorlagen lassen sich im einzelnen Event weiter anpassen. Dies verändert die Vorlage der entsprechenden Frage nicht. 
+
+
+Kurse
+-------
+
+Die Kurse bauen auf den Anlässen auf, sind durch zusätzliche Funktionen ergänzt. So können Anmeldebedingugen definiert werden und Teilnehmer können aufgrund ihrer angegebenen Priorität zugewiesen werden.
+
+Unter „Kurse“ findet siche eine Übersicht über Kurse von Gruppen, bei denen man selbst Mitglied ist, sowie deren Übergruppen. Andere Anlässe finden sich bei der organsierenden Gruppe:
+
+.. image:: images/AnsichtKurse.png
+
+Hier kann man sich direkt für einen Kurs anmelden, sofern die Anmledung bereits freigegeben beziehungsweise der Anmeldeschluss noch nicht eingetreten ist.
+
+Neuen Kurs erstellen
+~~~~~~~~~~~~~~~~~~~~
+Anlass erstellen in der gewünschten Gruppe, auf der entsprechenden Ebene:
+
+.. image:: images/KursErstellen1.png
+
+.. image:: images/KursErstellen2.png
+
+In allen Umgebungen welche nach bestimmter Zeit automatisch Antworten auf Eventfragen löschen, werden nur noch als „sensibel“ markierte Antworten entfernt, wobei alle Fragen ab sofort standardmässig als sensibel voreingestellt sind.
+
+.. image:: images/SensibleAntworten.png
+
+Einladungen
+-----------
+
+Einladungen sind nützlich, wenn bestimmte Personen an einem Anlass oder Kurs teilnehmen sollten.
+In diesem Fall können die Verantwortlichen diese Personen auf dem *Einladungen*-Tab hinzufügen.
+Das *Einladungen*-Tab zeigt den Status aller eingeladenen Personen.
+
+.. image:: images/invitation_list.png
+
+Die eingeladenen Personen können sich dann auf der Anlass-Seite für den Anlass an- oder abmelden.
+
+.. image:: images/invitation_reply.png
+
+Die eingeladenen Personen erhalten kein automatische Benachrichtigung,
+da die Betroffenen wohl in vielen Fällen (z.B. Sitzungen, Generalversammlung)
+separat ausführlich informiert werden müssen.
+
+
+Über das Personen-Register der anbietenden Gruppe eines Anlasses oder Kurses
+können auch mehrere Personen gleichzeitig hinzugefügt werden.
+
+.. image:: images/invitation_mass-add.png
 
 ---
 ## Rechnungen
