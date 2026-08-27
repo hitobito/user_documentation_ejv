@@ -220,9 +220,9 @@ Hier kann man sich direkt für einen Anlass anmelden, sofern die Anmledung berei
 
 Anlass erstellen in der gewünschten Gruppe, auf der entsprechenden Ebene:
 
-![image](images/AnlassErstellen.png).
+![image](images/AnlassErstellen.png)
 
-![image](images/AnlassErstellen2.png).
+![image](images/AnlassErstellen2.png)
 
 ### Gästefeature
 
