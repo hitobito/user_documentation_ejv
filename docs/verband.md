@@ -212,7 +212,7 @@ In Hitobito können unterschiedliche Arten von Events geführt werden. Einfache 
 
 Unter „Anlässe“ findet siche eine Übersicht über Anlässe von Gruppen, bei denen man selbst Mitglied ist, sowie deren Übergruppen. Andere Anlässe finden sich bei der organsierenden Gruppe:
 
-.. image:: images/AnsichtAnlaesse1.png
+![image](AnsichtAnlaesse1.png)
 
 Hier kann man sich direkt für einen Anlass anmelden, sofern die Anmledung bereits freigegeben beziehungsweise der Anmeldeschluss noch nicht eingetreten ist.
 
@@ -220,9 +220,9 @@ Neuen Anlass erstellen
 ~~~~~~~~~~~~~~~~~~~~~~
 Anlass erstellen in der gewünschten Gruppe, auf der entsprechenden Ebene:
 
-.. image:: images/AnlassErstellen.png
+![image](images/AnlassErstellen.png).
 
-.. image:: images/AnlassErstellen2.png
+![image](images/AnlassErstellen2.png).
 
 Gästefeature
 ~~~~~~~~~~~~~~~~~~~~~~
